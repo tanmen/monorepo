@@ -1,0 +1,14 @@
+{
+  "name": "monorepo",
+  "repository": "git@github.com:tanmen/monorepo.git",
+  "packageManager": "yarn@1.22.17",
+  "author": "tanmen <yt.prog@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "turbo run build"
+  },
+  "devDependencies": {
+    "turbo": "^1.1.4"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "@tanmen/monorepo-b",
+  "version": "0.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
