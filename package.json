@@ -5,6 +5,7 @@
   "author": "tanmen <yt.prog@gmail.com>",
   "license": "MIT",
   "private": true,
+  "workspaces": ["packages/*"],
   "scripts": {
     "build": "turbo run build"
   },

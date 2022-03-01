@@ -10,7 +10,7 @@
 		],
 
 		"baseUrl": "src",
-		"outDir": "lib",
+		"outDir": "dist",
 
 		"strict": true,
 		"alwaysStrict": true,
