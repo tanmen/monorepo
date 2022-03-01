@@ -7,7 +7,8 @@
     "registry":"https://npm.pkg.github.com"
   },
   "scripts": {
-    "build": "tsc"
+    "build": "tsc",
+    "pack": "cp -R package.json README.md LICENSE dist && rsync -a src dist/src --exclude '__tests__' --exclude '*.test.*' --exclude '*.spec.*'"
   },
   "devDependencies": {
     "typescript": "^4.6.2"
