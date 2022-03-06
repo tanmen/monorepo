@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "license": "MIT",
-  "description": "monorepo a",
+  "description": "monorepo sample a module",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
   },
