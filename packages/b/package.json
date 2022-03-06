@@ -2,7 +2,7 @@
   "name": "@tanmen/monorepo-b",
   "version": "0.0.0",
   "main": "index.js",
-  "description": "monorepo b",
+  "description": "monorepo sample b module",
   "license": "MIT",
   "publishConfig": {
     "registry":"https://npm.pkg.github.com"
