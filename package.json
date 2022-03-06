@@ -15,8 +15,8 @@
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",
     "@semantic-release/git": "^10.0.1",
+    "multi-semantic-release": "^2.11.1",
     "semantic-release": "^19.0.2",
-    "semantic-release-monorepo": "^7.0.5",
     "turbo": "^1.1.4"
   }
 }
