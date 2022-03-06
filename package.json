@@ -1,8 +1,8 @@
 {
   "name": "monorepo",
   "repository": "git@github.com:tanmen/monorepo.git",
-  "packageManager": "yarn@1.22.17",
   "author": "tanmen <yt.prog@gmail.com>",
+  "packageManager": "yarn@1.22.17",
   "license": "MIT",
   "private": true,
   "workspaces": [

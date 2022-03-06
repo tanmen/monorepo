@@ -1,6 +1,8 @@
 {
   "name": "@tanmen/monorepo-a",
   "version": "0.0.0",
+  "repository": "git@github.com:tanmen/monorepo.git",
+  "author": "tanmen <yt.prog@gmail.com>",
   "main": "index.js",
   "license": "MIT",
   "description": "monorepo sample a module",
