@@ -1,2 +1,2 @@
 # monorepo-a
-dummy
+dummy module
