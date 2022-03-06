@@ -1,3 +1,10 @@
+## @tanmen/monorepo-b [1.0.3](https://github.com/tanmen/monorepo/compare/@tanmen/monorepo-b@1.0.2...@tanmen/monorepo-b@1.0.3) (2022-03-06)
+
+
+### Bug Fixes
+
+* add repository and author ([a358d6e](https://github.com/tanmen/monorepo/commit/a358d6e4bfe6dbcc950433e59c5da4d0bf8033fb))
+
 ## @tanmen/monorepo-b [1.0.2](https://github.com/tanmen/monorepo/compare/@tanmen/monorepo-b@1.0.1...@tanmen/monorepo-b@1.0.2) (2022-03-06)
 
 
