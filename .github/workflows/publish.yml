@@ -16,7 +16,7 @@ jobs:
           registry-url: https://npm.pkg.github.com
       - run: yarn install --frozen-lockfile
       - run: yarn run pack
-      - run: yarn workspaces run semantic-release -e semantic-release-monorepo
+      - run: yarn semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_TOKEN: ${{ secrets.GITHUB_TOKEN }}
